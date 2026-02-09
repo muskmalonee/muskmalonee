@@ -5,11 +5,13 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:abhishekashok14@gmail.com)
 
 
+
 ## 👨‍💻 About Me
 
 👋 Hey, I’m a cybersecurity engineer driven by curiosity.
 
 I build, break, and automate security systems to understand how attackers think and how defenders can stay one step ahead.
+
 
 
 ## 🎓 Certifications
@@ -19,6 +21,8 @@ I build, break, and automate security systems to understand how attackers think 
 🔍 EC-Council SOC Certified S|CE            ✓ Certified  
 🛡️ ISC² Certified in Cybersecurity (CC)     ✓ Certified
 ```
+
+
 
 ## 🛠️ Technical Skills
 
@@ -57,12 +61,14 @@ I build, break, and automate security systems to understand how attackers think 
 - PowerShell & Bash (foundations)
 
 
+
 ## 🚧 Currently Exploring
 
 - Detection-as-Code & alert engineering at scale  
 - SOAR workflows and security automation  
 - Threat hunting with MITRE ATT&CK-driven hypotheses  
 - Applying ML concepts to anomaly detection in security data
+
 
 
 ## 📊 Core Focus Areas (Hands-On Experience)
@@ -81,8 +87,8 @@ Vulnerability Assessment 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜  75%
 SQL & Data Analysis      🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜  75%
 AI / ML for Security     🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜  70%
 Forensics Tooling        🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜  70%
-
 ```
+
 
 
 ## 🧠 What I Enjoy Working On
@@ -93,13 +99,13 @@ Forensics Tooling        🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜  70%
 - Automating repetitive tasks so analysts can think, not click  
 
 
+
 ## 📫 Let's Connect
 
 Open to opportunities in **Security Operations**, **Detection Engineering**, and **Threat Hunting** roles.
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/abhishekashok14/)
 - 📧 Email: abhishekashok14@gmail.com
-
 ---
 
 *"If it logs, it tells a story. I just like figuring out which ones matter."*
