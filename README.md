@@ -1,27 +1,105 @@
-<h1 align="center">Hello 👋, I'm Abhishek Ashok</h1>
-<h3 align="center">A passionate Cybersecurity Analyst</h3>
+# Abhishek Ashok | Cybersecurity Engineer  
+**Turning raw logs into detections, and detections into decisions.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muskmalonee&label=Profile%20views&color=0e75b6&style=flat" alt="muskmalonee" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishekashok14/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:abhishekashok14@gmail.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskmalonee" alt="muskmalonee" /></a> </p>
 
-- 🔭 I’m currently working on **Vulnerability Assesment on my Organization**
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Cloud Security (Azure & AWS)**
+👋 Hey, I’m a cybersecurity engineer driven by curiosity.
 
-- 🤝 I’m looking for new roles **SOC/GRC/IT Support Engineer**
+I build, break, and automate security systems to understand how attackers think and how defenders can stay one step ahead.
 
-- 📫 How to reach me **abhishekashok14@gmail.com**
 
-- ⚡ Fun fact **I’m a gamer, I enjoy strategy and competitive games, which actually helps sharpen my problem-solving and decision-making skills 🎮**
+## 🎓 Certifications
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+```text
+🔐 CompTIA Security+                        ✓ Certified
+🔍 EC-Council SOC Certified S|CE            ✓ Certified  
+🛡️ ISC² Certified in Cybersecurity (CC)     ✓ Certified
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🛠️ Technical Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskmalonee&show_icons=true&locale=en&layout=compact" alt="muskmalonee" /></p>
+### 🔍 SIEM & Security Platforms
+- Splunk, Microsoft Sentinel, Sumo Logic
+- Alert triage, log correlation & detection tuning
+- Threat intelligence ingestion & analysis
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskmalonee&show_icons=true&locale=en" alt="muskmalonee" /></p>
+### 🖥️ Endpoint & Network Security
+- EDR/XDR: SentinelOne, Microsoft Defender
+- Network analysis: Wireshark, Nmap
+- Vulnerability scanning: Nessus
+
+### 🚨 Security Operations & DFIR
+- SOC monitoring, triage & escalation
+- Incident response & digital forensics
+- Malware analysis (static & behavioral)
+- Magnet AXIOM, Autopsy
+- MITRE ATT&CK–aligned threat hunting
+
+### 🛡️ Offensive & Defensive Techniques
+- Web application testing: Burp Suite
+- Adversary TTP & attack chain analysis
+- Kill chain & exposure analysis
+
+### ☁️ Cloud & Modern Security Trends
+- Cloud security fundamentals (Azure & AWS)
+- Identity & access security (Zero Trust concepts)
+- Detection-as-Code & use case engineering
+- SOAR & security automation concepts
+- Continuous exposure management
+
+### 🤖 Scripting & Data Skills
+- Python (security automation, data analysis)
+- SQL (security data querying)
+- PowerShell & Bash (foundations)
+
+
+## 🚧 Currently Exploring
+
+- Detection-as-Code & alert engineering at scale  
+- SOAR workflows and security automation  
+- Threat hunting with MITRE ATT&CK-driven hypotheses  
+- Applying ML concepts to anomaly detection in security data
+
+
+## 📊 Core Focus Areas (Hands-On Experience)
+
+```text
+SIEM & Log Analysis      🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩  95%
+Threat Detection         🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  90%
+Incident Response / DFIR 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  90%
+Threat Hunting           🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  85%
+Python Automation        🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  85%
+EDR / XDR                🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  80%
+Network Traffic Analysis 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  80%
+Cloud Security           🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  80%
+Malware Analysis         🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜  75%
+Vulnerability Assessment 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜  75%
+SQL & Data Analysis      🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜  75%
+AI / ML for Security     🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜  70%
+Forensics Tooling        🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜  70%
+
+```
+
+
+## 🧠 What I Enjoy Working On
+
+- Turning high-noise SOC environments into actionable signals  
+- Building detections that actually catch real attackers  
+- Investigating weird alerts that refuse to make sense  
+- Automating repetitive tasks so analysts can think, not click  
+
+
+## 📫 Let's Connect
+
+Open to opportunities in **Security Operations**, **Detection Engineering**, and **Threat Hunting** roles.
+
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/abhishekashok14/)
+- 📧 Email: abhishekashok14@gmail.com
+
+---
+
+*"If it logs, it tells a story. I just like figuring out which ones matter."*
